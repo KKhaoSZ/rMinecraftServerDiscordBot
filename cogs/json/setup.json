@@ -1,0 +1,14 @@
+{
+    "832882364576432139": {
+        "admin_role": {
+            "1": 832890606924726293
+        },
+        "muted_role": 840066621640278025,
+        "reddit_channel": 836818101864497173,
+        "punishments_channel": 836768368781951046,
+        "message_update_channel": 836768368781951046,
+        "join_leave_channel": 836768368781951046,
+        "user_update_channel": 836768368781951046,
+        "server_update_channel": 836768368781951046
+    }
+}
