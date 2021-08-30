@@ -21,7 +21,7 @@ class Slash(commands.Cog):
     async def delete_all_global_commands(self, ctx: SlashContext):
         bot_id = 824392788258979913
         author_id = str(ctx.author.id)
-        bot_token = "ODI0MzkyNzg4MjU4OTc5OTEz.YFutnQ.qjIVcKxxyTc9M7JArf-TA9Ifmuw"
+        bot_token = "Put Token Here"
         if author_id == "268221711344730115":
             await discord_slash.utils.manage_commands.remove_all_commands_in(bot_id=bot_id, bot_token=bot_token, guild_id=guild_id)
             await ctx.send("Commands have been successfully removed!")
